@@ -1,0 +1,7 @@
+.idea
+__pycache__
+venv
+trial.py
+dist
+Raspcapture-server
+database.sqlite
